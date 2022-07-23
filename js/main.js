@@ -1,6 +1,6 @@
 (function($) {
 
-	"use strwwwict";
+	"use strct";
 
 
 })(jQuery);
